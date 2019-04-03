@@ -24,7 +24,7 @@ body {
     min-height: 100%;
     width: 100%;
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: /*"Roboto Slab","Helvetica Neue",Helvetica,*/Arial,sans-serif;
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
@@ -247,7 +247,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: /*"Kaushan Script","Helvetica Neue",Helvetica,*/Arial,cursive;
     color: #{{ site.data.template.color.primary }};
 }
 
