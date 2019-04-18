@@ -2,7 +2,7 @@ title: Python For All
 description: > # this means to ignore newlines until "baseurl:"
   Venha programar em Python.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.pytnonforall.com.br" # the base hostname & protocol for your site 
+url: "http://www.pytnonforall.com.br" # the base hostname & protocol for your site 
 # Build settings
 markdown: kramdown
 
