@@ -1,26 +1,17 @@
-- title: Name
-  name: Name-1
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+- title: Luiz Cláudio Silva
+  name: LuizClaudio
+  subtitle: Consultor Independente
+  img: luizclaudio.jpg
+  thumbnail: luizclaudio.jpg
+  alt: Picture of Luiz Claudio
+  topic: "mypy: tipagem estática para Python"
+  description: Uma das iniciativas mais comentadas no universo Python nos últimos tempos, mypy trás a possibilidade de definir e checar tipos estáticos, sem atrapalhar a tipagem dinâmica padrão da linguagem. Como um dos desenvolvedores e grande divulgador é o próprio Guido von Rossum, é importante conhecer os motivos e como funciona o mypy.
 
-- title: Name
-  name: Name-2
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
-
-- title: Name
-  name: Name-3
-  subtitle: Position
-  img: TBD.jpg
-  thumbnail: TBD.jpg
-  alt: Picture of TBD
-  topic: Topic
-  description: More Info
+#- title: Name
+#  name: Name-2
+#  subtitle: Position
+#  img: TBD.jpg
+#  thumbnail: TBD.jpg
+#  alt: Picture of TBD
+#  topic: Topic
+#  description: More Info
